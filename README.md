@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhira-ai" alt="mdhira-ai" /></a> </p>
 
-- 🔭 I’m currently working on **API development**
-
-- 🌱 I’m currently learning **Computer Science**
+- 🔭 I’m currently working on **Software development**
 
 - 👯 I’m looking to collaborate on **Software Developer**
 
-- 💬 Ask me about **react, javascript ,python**
+- 💬 Ask me about **react, javascript ,python , react native, Nextjs , gdscript**
 
 - 📫 How to reach me **mdhira8782@gmail.com**
 
